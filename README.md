@@ -11,6 +11,7 @@ Portfolio of work done at Wasabi
 * Brand new, highly configurable Modal system
 * Smooth animation transitions throughout
 * Skeleton loading for all pain points
+* Focus on well designed, reusable components
 * Full mobile support
 
 # New - Desktop View

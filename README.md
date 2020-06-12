@@ -3,7 +3,7 @@ Portfolio of work done at Wasabi
 
 # The S3 Console App
 ## Extensive changes were made to the Application, besides the obvious visual upgrade.
-* Every single component using material-ui had to be upgraded, as it was using a deprecated version
+* Every single component using material-ui (Styling library) had to be upgraded, as it was using a deprecated version
 * Designed with strict requirements for usability by those who use screen readers, or are otherwise visually impaired
 * Webpack v3 to v4 upgrade - necessitated a full configuration rewrite
 * Every string within the app has full internationalization support

@@ -6,6 +6,7 @@ Portfolio of work done at Wasabi
 * Every single component using material-ui (Styling library) had to be upgraded, as it was using a deprecated version
 * Designed with strict requirements for usability by those who use screen readers, or are otherwise visually impaired
 * Webpack v3 to v4 upgrade - necessitated a full configuration rewrite
+* Removed many dependencies, and in place, used simple JS and CSS thereby cutting bundle size
 * Every string within the app has full internationalization support
 * Brand new, highly customized Toast notification system, based on notistack
 * Brand new, highly configurable Modal system

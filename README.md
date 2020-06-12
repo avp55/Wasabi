@@ -24,6 +24,9 @@ Portfolio of work done at Wasabi
 [![](https://github.com/avp55/Wasabi/blob/master/console_mob1.png)](#)
   
 [![](https://github.com/avp55/Wasabi/blob/master/console_mob2.png)](#)
+
+[![](https://github.com/avp55/Wasabi/blob/master/console_mob3.png)](#)
+
 # Starting Point
 [![](https://github.com/avp55/Wasabi/blob/master/console1_old.jpg)](#)
 

@@ -12,6 +12,7 @@ Portfolio of work done at Wasabi
 * Smooth animation transitions throughout
 * Skeleton loading for all pain points
 * Focus on well designed, reusable components
+* Transitioned most components to use Hooks, vs the previous React lifecycle management
 * Full mobile support
 
 # New - Desktop View
